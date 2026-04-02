@@ -1,5 +1,6 @@
 # Obiettivo del progetto
-## Progetto realizzato per una tesi in Informatica con l'obiettivo di digitalizzare la gestione di una clinica sanitaria privata.
+### Progetto realizzato per una tesi in Informatica con l'obiettivo di digitalizzare la gestione di una clinica sanitaria privata.
+### Video Dimostrativo: https://shorturl.at/nw66b
 
 # Deploy - Portale Clinica Sanitaria Privata
 
